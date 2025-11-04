@@ -1,0 +1,5 @@
+"""Mensajes centralizados de excepciones."""
+MENSAJE_CONTRATO_VENCIDO = "El contrato se encuentra vencido"
+MENSAJE_PAGO_INSUFICIENTE = "El monto pagado es insuficiente"
+MENSAJE_PERSISTENCIA_ERROR = "Error en operacion de persistencia"
+MENSAJE_PROPIETARIO_INVALIDO = "El nombre del propietario no puede ser nulo o vacio"

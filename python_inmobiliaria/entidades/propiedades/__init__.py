@@ -1,0 +1,1 @@
+"""Entidades de propiedades inmobiliarias."""
